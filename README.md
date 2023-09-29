@@ -1,4 +1,4 @@
 # CyberSecurity
-Books I referred to gain knowledge
+Books I referred to gain knowledge as an
 Absolute Beginner:
-    1. Dafydd Stuttard, Marcus Pinto - The web application hacker's handbook_ finding and exploiting security flaws-Wiley (2011) 
+    1. Dafydd Stuttard, Marcus Pinto - The web application hacker's handbook_ finding and exploiting security flaws-Wiley (2011)
