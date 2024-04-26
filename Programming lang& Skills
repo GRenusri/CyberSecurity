@@ -1,0 +1,22 @@
+Programming languages:
+
+Python - To identify and fix vulnerabilities
+JavaScript - To prevent cross-site scripting attacks
+PHP, HTML - To defend intruders (in websites)
+
+SQL - Injection attacks (to damage stored data)
+Go Lang - Used to cryptography cybersecurity issues
+
+Assembly language - To understand how malware functions work and thereby help you defend against it.
+
+Skills:
+1. Networking -  To understand data transmission's technical aspects (Helps to secure data)
+  System Administration - To configure & maintain computers
+2. OS & VM
+  Kali Linux - For ethical Hacking & pen-testing
+3. Network security control - To filter and prevent unauthorized traffic onto the network.
+                Intrusion detection systems, Intrusion Prevention Systems, Virtual Private Networks (VPNs), and remote access.
+For example, you should operate the IDS and recognize any security policy violations and malicious traffic on the network. 
+4. Cloud Security - AWS, AZure
+        This includes the implementation of policies and technologies that protect cloud-based systems and devices.
+      Application Development Security, Cloud Security also involves building secure systems from the start
